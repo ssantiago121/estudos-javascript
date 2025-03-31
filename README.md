@@ -62,5 +62,5 @@ Caso queira contribuir com melhorias, sinta-se à vontade para abrir um **Pull R
 ---
 
 ### 📢 Contato
-Se quiser trocar ideias sobre JavaScript ou desenvolvimento, me encontre no **LinkedIn**: [Fábio Santiago](www.linkedin.com/in/fabio-santiago-423774230) 🚀
+Se quiser trocar ideias sobre JavaScript ou desenvolvimento, me encontre no **LinkedIn**: [Fábio Santiago](https://www.linkedin.com/in/fabio-santiago-423774230/) 🚀
 
